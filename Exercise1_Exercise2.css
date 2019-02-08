@@ -1,0 +1,36 @@
+/*style for all <p>*/
+.borderBtn1{
+    border: 3px solid green;
+}
+
+.borderBtn2{
+    border: 3px solid red;
+}
+
+.borderBtn3{
+    border: 3px solid blue;
+}
+
+
+/*style for the buttons*/
+button{
+    border-radius: 15px;
+    background: orange;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+body{
+    background: khaki;
+}
+
+/*style when the button 5 is disabled*/
+#btn4:disabled{
+    background: gray;
+}
+
+/*style when the button 5 is disabled*/
+#btn5:disabled{
+    background: gray;
+}
